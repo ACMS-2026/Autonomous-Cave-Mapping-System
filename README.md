@@ -30,7 +30,7 @@ Today, the exploration and documentation of such caves are often carried out by 
 
 The planned Autonomous Cave Mapping System (ACMS) aims to reduce these issues. Its objective is the autonomous collection of image and sensor data within a cave. These data can then be used to generate a high-resolution digital 3D model. This makes it possible to document caves in great detail and provide virtual access without requiring large numbers of people to physically enter the cave.
 
-## How Widespread Is This Problem?
+# How Widespread Is This Problem?
 
 The described problem is not limited to individual caves but is relevant worldwide. Numerous caves are protected as natural or cultural heritage sites and can only be accessed under strict regulations. At the same time, scientists, cavers, educational institutions, and the public have a strong interest in exploring and documenting these unique environments.
 
@@ -38,7 +38,7 @@ Many caves are accessible only to experienced cavers. Narrow passages, steep sha
 
 As a result, the digitalization and virtual representation of cave systems are becoming increasingly important. Modern 3D models allow scientific investigations, documentation, and public education while minimizing the impact on the actual cave environment.
 
-## Personal Motivation
+# Personal Motivation
 
 My personal motivation for this project stems from my long-standing interest in technology, robotics, and autonomous systems, as well as my membership in the Kluterthöhle Working Group (AKKH). Through active involvement in cave exploration, I have gained firsthand insight into the challenges associated with the exploration, surveying, and documentation of cave systems.
 
