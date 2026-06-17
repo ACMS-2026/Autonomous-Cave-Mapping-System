@@ -4,7 +4,7 @@ Autonomous Cave Mapping System (ACMS) ist ein autonomes Drohnensystem zur Erkund
 
 ## Summary 
 Autonomous Cave Mapping System (ACMS) is an autonomous drone system designed for the exploration and digital mapping of caves. Using cameras, sensors, and artificial intelligence (AI), the drone independently creates maps and 3D models of hard-to-reach areas, thereby supporting scientific research, documentation, and nature conservation.
-## 1. Project Idea:
+# 1. Project Idea:
 
 Autonomous Cave Mapping System (ACMS)
 
@@ -20,9 +20,9 @@ After completing the exploration mission or reaching predefined criteria such as
 
 The ACMS is particularly suitable for applications in research, geology, rescue technology, and the exploration of unknown underground systems. By combining autonomous navigation, sensor fusion, and image processing, the project enables efficient and safe exploration of environments that are difficult or dangerous for humans to access.
 
-## 2. Background
+# 2. Background
 
-# What Problem Does the Idea Solve?
+## What Problem Does the Idea Solve?
 
 Natural caves are among the most fascinating yet fragile geological environments on Earth. Many cave systems contain unique stalactite and stalagmite formations, mineral deposits, fossils, and other geological structures that have developed over thousands or even millions of years. These natural archives provide valuable information for geology, paleontology, climate research, and many other scientific disciplines.
 
@@ -30,7 +30,7 @@ Today, the exploration and documentation of such caves are often carried out by 
 
 The planned Autonomous Cave Mapping System (ACMS) aims to reduce these issues. Its objective is the autonomous collection of image and sensor data within a cave. These data can then be used to generate a high-resolution digital 3D model. This makes it possible to document caves in great detail and provide virtual access without requiring large numbers of people to physically enter the cave.
 
-# How Widespread Is This Problem?
+## How Widespread Is This Problem?
 
 The described problem is not limited to individual caves but is relevant worldwide. Numerous caves are protected as natural or cultural heritage sites and can only be accessed under strict regulations. At the same time, scientists, cavers, educational institutions, and the public have a strong interest in exploring and documenting these unique environments.
 
@@ -38,7 +38,7 @@ Many caves are accessible only to experienced cavers. Narrow passages, steep sha
 
 As a result, the digitalization and virtual representation of cave systems are becoming increasingly important. Modern 3D models allow scientific investigations, documentation, and public education while minimizing the impact on the actual cave environment.
 
-# Personal Motivation
+## Personal Motivation
 
 My personal motivation for this project stems from my long-standing interest in technology, robotics, and autonomous systems, as well as my membership in the Kluterthöhle Working Group (AKKH). Through active involvement in cave exploration, I have gained firsthand insight into the challenges associated with the exploration, surveying, and documentation of cave systems.
 
@@ -46,14 +46,14 @@ It has become particularly clear that not everyone has the opportunity to explor
 
 A digital 3D model could provide these individuals with access to the cave. Virtual representation allows users to view cave chambers, follow scientific observations, and study geological features without being physically present. This makes information and research results accessible to a much broader audience.
 
-# Reference
+## Reference
 
 Author / Organization: Kluterthöhle Working Group (AKKH)
 Website Title: Kluterthöhle Working Group (Official Website)
 URL: https://www.akkh.de/
 Date Accessed: June 14, 2026
 
-# Why Is This Topic Important and Interesting?
+## Why Is This Topic Important and Interesting?
 
 This topic combines several highly relevant scientific and societal aspects. On the one hand, the project contributes to the protection of sensitive natural and cultural environments by reducing the number of required cave visits. On the other hand, it supports scientific documentation and the long-term preservation of geological information.
 
@@ -65,7 +65,7 @@ The ACMS is therefore not intended to replace human cave researchers. Instead, i
 
 This creates a meaningful balance between research, education, public accessibility, and environmental conservation.
 
-## 3. Data and AI Techniques
+# 3. Data and AI Techniques
 
 The planned Autonomous Cave Mapping System (ACMS) is based on collecting and processing various data sources gathered during an autonomous exploration mission within a cave system. The quality and availability of these data are crucial to the project’s success because they form the foundation for both autonomous navigation and the later creation of a digital 3D model.
 
@@ -83,7 +83,7 @@ For an initial project demonstration, a prototype can be developed that processe
 
 The combination of high-resolution image data, sensor measurements, and modern AI techniques therefore forms the foundation for autonomous cave exploration, documentation, and digital reconstruction. At the same time, it enables the enhancement of existing surveys, supports scientific investigations, and promotes long-term digital accessibility of cave systems.
 
-## 4. How Will It Be Used?
+# 4. How Will It Be Used?
 
 The Autonomous Cave Mapping System (ACMS) is intended for the autonomous acquisition and documentation of cave systems. For this purpose, a drone equipped with cameras and sensors is launched from a defined entry point within a cave. During the mission, the system moves independently through the cave and collects image and sensor data from the surrounding environment. After completing the data acquisition process, the drone returns to its starting point and transfers the collected data for further processing.
 
@@ -99,9 +99,9 @@ The system also offers advantages from a conservation perspective. The number of
 
 When considering the stakeholders affected by the project, several perspectives must be taken into account. Cave researchers require highly accurate and scientifically valuable data. Club members expect long-term preservation of documentation and improved access to research results. Conservationists advocate for the most careful treatment possible of sensitive cave systems. The public benefits from improved access to knowledge and information about geological natural monuments. ACMS aims to integrate these diverse requirements into a single technical solution.
 
-## 5. Challenges
+# 5. Challenges
 
-# Which Problems Are Not Solved by the Project?
+## Which Problems Are Not Solved by the Project?
 
 The Autonomous Cave Mapping System (ACMS) is intended to improve the digital documentation and virtual accessibility of cave systems. However, the system cannot solve all challenges associated with cave research and cave documentation. Like any technological solution, ACMS has technical, organizational, and scientific limitations.
 
@@ -123,9 +123,9 @@ In summary, ACMS is a tool that supports research, documentation, and knowledge 
 
 An additional advantage of acknowledging these limitations is that it demonstrates to evaluators that the project is not presented as a universal solution. Instead, it shows a conscious awareness of the boundaries of artificial intelligence, robotics, and digitalization, which is often viewed positively during project evaluations.
 
-## 6. What Comes Next?
+# 6. What Comes Next?
 
-# Future Development of the Project
+## Future Development of the Project
 
 The Autonomous Cave Mapping System (ACMS) is designed as an initial functional approach to autonomous data acquisition in caves. However, it has significant potential for long-term development and expansion. The current focus is on collecting image and sensor data and generating a 3D model on an external computer system. Building on this foundation, several future development stages can be envisioned.
 
@@ -143,7 +143,7 @@ The practical application of the system beyond cave exploration also represents 
 
 Overall, ACMS offers considerable development potential. It can evolve from a basic autonomous exploration platform into a highly integrated system for autonomous exploration, 3D digitization, and intelligent environmental analysis. In the long term, this could make the system valuable not only for cave research but also for numerous fields of robotics and environmental monitoring.
 
-## 7. Acknowledgements
+# 7. Acknowledgements
 
 The Autonomous Cave Mapping System (ACMS) project is currently in an early conceptual phase. At the present time, no concrete software implementation has been developed, and no open-source software components have been incorporated. Therefore, there are currently no direct software or code sources that need to be cited within the scope of the project.
 
